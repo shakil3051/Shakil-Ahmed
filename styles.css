@@ -1,0 +1,123 @@
+body{
+  background-color: #E4F9F5;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+hr{
+  border-style: dotted #084177 6px;
+  border-bottom: 0;
+  width: 20%;
+}
+.Top {
+background-color: #E4F9F5;
+padding-top: 100px;
+text-align: center;
+}
+h1{
+  color: #084177;
+  font-size: 4.625rem;
+text-align: center;
+font-family: 'Sacramento', cursive;
+margin-bottom: 20px;
+}
+
+h2 {
+  color: #be8abf;
+font-family: 'Montserrat', sans-serif;
+font-size: 1.25rem;
+}
+h3{
+  color: #21bf73;
+font-family: 'Montserrat', sans-serif;
+}
+.bottomcloud{
+  position: absolute;
+  top: auto;
+}
+.topcloud{
+  position:relative;
+  left:200px ;
+  bottom: 30px;
+}
+.midddle-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+.bottom-container{
+  margin-top: 20px;
+  padding-bottom: 30px;
+  background-color: #347474;
+  padding-top: 40px;
+  position: relative;
+}
+a{
+  color: #21bf73;
+text-decoration: none;
+}
+.shakil{
+  margin-top: 50px;
+  border-radius: 50%;
+}
+.profile{
+  margin-top: 50px;
+}
+.event{
+  float: left;
+  border-radius: 50%;
+  margin-right: 30px;
+}
+.camera{
+  float: right;
+  border-radius: 50%;
+  margin-left: 30px;
+}
+.skill1{
+  height: 200px;
+  width: 70%;
+  text-align: left;
+  margin: auto;
+  line-height: 2;
+}
+.skill2{
+  height: 200px;
+  width: 70%;
+  text-align: right;
+  margin: auto;
+  line-height: 2;
+}
+.skills{
+  height: 500px;
+  margin-top: 30px;
+}
+.button {
+  margin-top: 20px;
+	box-shadow: 3px 4px 0px 0px #e184f3;
+	background:linear-gradient(to bottom, #b928d6 5%, #a20dbd 100%);
+	background-color:#b928d6;
+	border-radius:18px;
+	border:1px solid #a511c0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:17px;
+	font-weight:bold;
+	padding:10px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #9b14b3;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #a20dbd 5%, #b928d6 100%);
+	background-color:#a20dbd;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.footer-link{
+  padding: 10px;
+}
+.contact{
+  margin-bottom: 50px;
+}
